@@ -1,21 +1,36 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de Site",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000,
-            "createdAt": "2025-09-23T20:33:36.331Z"
-        },
-
-        {
-            "id": 2,
-            "description": "Hamburguer",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 14,
-            "createdAt": "2025-09-23T20:33:36.331Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2025-09-23T20:33:36.331Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 14,
+      "createdAt": "2025-09-23T20:33:36.331Z"
+    },
+    {
+      "description": "Dev. App Mobile",
+      "price": 20000,
+      "category": "Desenvolvimento",
+      "type": "income",
+      "createdAt": "2025-09-24T06:11:32.064Z",
+      "id": 3
+    },
+    {
+      "description": "Notebook Novo",
+      "price": 5500,
+      "category": "Investimento",
+      "type": "outcome",
+      "createdAt": "2025-09-24T06:26:58.610Z",
+      "id": 4
+    }
+  ]
 }
