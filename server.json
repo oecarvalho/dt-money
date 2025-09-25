@@ -31,6 +31,22 @@
       "type": "outcome",
       "createdAt": "2025-09-24T06:26:58.610Z",
       "id": 4
+    },
+    {
+      "description": "Almoço",
+      "price": 20,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2025-09-24T19:30:30.068Z",
+      "id": 5
+    },
+    {
+      "description": "Notebook Novo",
+      "price": 2000,
+      "category": "Investimento",
+      "type": "income",
+      "createdAt": "2025-09-24T19:31:02.961Z",
+      "id": 6
     }
   ]
 }
